@@ -1,0 +1,32 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    border-bottom: 9px orange groove;
+}
+.heading h1{
+    display: inline;
+}
+.heading button{
+    float: right;
+}
+#ma{
+    width: 100%;
+}
+#ga,#sa{
+    font-size: 28px;
+}
+.h{
+    display: inline-block;
+    width: 45%;
+}
+h4{
+    background-color: indianred;
+    line-height: 3;
+    margin: 0px;
+}
+video{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
